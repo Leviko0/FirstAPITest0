@@ -42,5 +42,6 @@ namespace FirstAPITest.Data
                 }
                 );
         }
+        public DbSet<Microcontroller> Microcontrollers { get; set; } 
     }
 }
