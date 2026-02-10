@@ -4,25 +4,27 @@ GET {{rootURL}}/weatherforecast/
 Accept: application/json
 
 ###
-GET {{rootURL}}/api/microcontrollers
+GET {{rootURL}}/api/MCU
 Accept: application/json
 
 ###
-GET {{rootURL}}/api/microcontroller/3
-Accept: applications/json
+GET {{rootURL}}/api/MCU/3
+Accept: application/json
 
 ###
-POST {{rootURL}}/api/microcontrollers
-Content-Type: applications/json
+POST {{rootURL}}/api/MCU
+Content-Type: application/json
+
 {
     "model": "ESP8266",
     "manufacturer": "Espressif",
-    "clockfz": 80
+    "clockFz": 80
 }
 
 ###
-PUT {{rootURL}}/api/microcontrollers/2
-Content-Type: applications/json
+PUT {{rootURL}}/api/MCU/2
+Content-Type: application/json
+
 {
     "id": 2,
     "model": "ESP8266",
@@ -31,4 +33,4 @@ Content-Type: applications/json
 }
 
 ###
-DELETE {{rootURL}}/api/microcontrollers/3
+DELETE {{rootURL}}/api/MCU/3
