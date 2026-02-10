@@ -1,6 +1,34 @@
-@FirstAPITest_HostAddress = http://localhost:5284
+@rootURL = http://localhost:5284
 
-GET {{FirstAPITest_HostAddress}}/weatherforecast/
+GET {{rootURL}}/weatherforecast/
 Accept: application/json
 
 ###
+GET{{rootURL}}/api/microcontrollers
+Accept: application/json
+
+###
+GET{{rootURL}}/api/microcontroller/3
+Accept: applications/json
+
+###
+POST{{rootURL}}/api/microcontrollers
+Content-Type: applications/json
+{
+    "model": "ESP8266",
+    "manufacturer": "Espressif",
+    "clockfz": 80
+}
+
+###
+PUT{{rootURL}}/api/microcontrollers/2
+Content-Type: applications/json
+{
+    "id": 2,
+    "model": "ESP8266",
+    "manufacturer": "Espressif",
+    "clockfz": 80
+}
+
+###
+DELETE{{rootURL}}/api/microcontrollers/3
