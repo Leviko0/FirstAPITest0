@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\controllers\\mcucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\controllers\\mcucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\firstapitest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\firstapitest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Migrations\\20260210213120_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstAPITest\\Migrations\\20260210213120_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\data\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\data\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\models\\microcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\models\\microcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\firstapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\firstapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\controllers\\mcucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\controllers\\mcucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\models\\microcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\models\\microcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|c:\\users\\levinkohrt\\source\\repos\\firstapitest\\firstapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{224715AE-5317-49AD-B68E-8751CDA2C755}|FirstAPITest\\FirstAPITest.csproj|solutionrelative:firstapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +42,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "20260210213120_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Migrations\\20260210213120_Initial.cs",
+              "RelativeDocumentMoniker": "FirstAPITest\\Migrations\\20260210213120_Initial.cs",
+              "ToolTip": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Migrations\\20260210213120_Initial.cs",
+              "RelativeToolTip": "FirstAPITest\\Migrations\\20260210213120_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:31:21.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FirstAPITest.http",
               "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\FirstAPITest.http",
               "RelativeDocumentMoniker": "FirstAPITest\\FirstAPITest.http",
               "ToolTip": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\FirstAPITest.http",
               "RelativeToolTip": "FirstAPITest\\FirstAPITest.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-02-10T21:01:39.519Z",
               "EditorCaption": ""
@@ -61,14 +78,14 @@
               "RelativeDocumentMoniker": "FirstAPITest\\Data\\FirstAPIContext.cs",
               "ToolTip": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Data\\FirstAPIContext.cs",
               "RelativeToolTip": "FirstAPITest\\Data\\FirstAPIContext.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAACwAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T19:39:44.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "FirstAPITest.csproj",
               "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\FirstAPITest.csproj",
               "RelativeDocumentMoniker": "FirstAPITest\\FirstAPITest.csproj",
@@ -76,11 +93,12 @@
               "RelativeToolTip": "FirstAPITest\\FirstAPITest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-09T19:39:20.588Z"
+              "WhenOpened": "2026-02-09T19:39:20.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\appsettings.json",
               "RelativeDocumentMoniker": "FirstAPITest\\appsettings.json",
@@ -88,25 +106,24 @@
               "RelativeToolTip": "FirstAPITest\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-09T19:38:02.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T19:38:02.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MCUController.cs",
               "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Controllers\\MCUController.cs",
               "RelativeDocumentMoniker": "FirstAPITest\\Controllers\\MCUController.cs",
               "ToolTip": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Controllers\\MCUController.cs",
               "RelativeToolTip": "FirstAPITest\\Controllers\\MCUController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwEAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T19:21:09.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Microcontroller.cs",
               "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Models\\Microcontroller.cs",
               "RelativeDocumentMoniker": "FirstAPITest\\Models\\Microcontroller.cs",
@@ -118,15 +135,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Program.cs",
               "RelativeDocumentMoniker": "FirstAPITest\\Program.cs",
               "ToolTip": "C:\\Users\\levinkohrt\\source\\repos\\FirstAPITest\\FirstAPITest\\Program.cs",
               "RelativeToolTip": "FirstAPITest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T19:07:54.963Z"
+              "WhenOpened": "2026-02-09T19:07:54.963Z",
+              "EditorCaption": ""
             }
           ]
         }

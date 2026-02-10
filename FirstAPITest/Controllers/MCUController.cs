@@ -12,6 +12,7 @@ namespace FirstAPITest.Controllers
     {
         private readonly FirstAPIContext _context;
         public MCUController(FirstAPIContext context) { _context = context; }
+
         [HttpGet]
         public async Task<ActionResult<List<Microcontroller>>> GetMicrocontroller()
         {

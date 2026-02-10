@@ -4,15 +4,15 @@ GET {{rootURL}}/weatherforecast/
 Accept: application/json
 
 ###
-GET{{rootURL}}/api/microcontrollers
+GET {{rootURL}}/api/microcontrollers
 Accept: application/json
 
 ###
-GET{{rootURL}}/api/microcontroller/3
+GET {{rootURL}}/api/microcontroller/3
 Accept: applications/json
 
 ###
-POST{{rootURL}}/api/microcontrollers
+POST {{rootURL}}/api/microcontrollers
 Content-Type: applications/json
 {
     "model": "ESP8266",
@@ -21,7 +21,7 @@ Content-Type: applications/json
 }
 
 ###
-PUT{{rootURL}}/api/microcontrollers/2
+PUT {{rootURL}}/api/microcontrollers/2
 Content-Type: applications/json
 {
     "id": 2,
@@ -31,4 +31,4 @@ Content-Type: applications/json
 }
 
 ###
-DELETE{{rootURL}}/api/microcontrollers/3
+DELETE {{rootURL}}/api/microcontrollers/3
